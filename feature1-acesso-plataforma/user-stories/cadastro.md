@@ -32,7 +32,7 @@
 > **Para** que eu possa montar o plano alimentar do meu paciente
 
 ### Critérios de Aceitação:
-1. O nutricionista deve preencher os campos obrigatórios **nome, e-mail, senha e número do CRN (Conselho Regional de Nutricionistas)** para se cadastrar.
+1. O nutricionista deve preencher os campos obrigatórios **nome, e-mail, senha e número do CRN (Conselho Regional de Nutrição)** para se cadastrar.
 2. O sistema deve validar se o e-mail é único.
 3. O sistema deve validar se a senha tem no mínimo 8 caracteres.
 4. O sistema deve validar se o número de cadastro no CRN é válido.
