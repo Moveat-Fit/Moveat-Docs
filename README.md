@@ -1,5 +1,5 @@
 # Documentação do Projeto Moveat
-Este repositório contém toda a documentação relacionada aos testes do projeto Moveat.
+Este repositório contém toda a documentação relacionada ao projeto Moveat.
 
 ## 👥 Time de desenvolvimento
 - Ana Carollyne Guimarães ***(QA)***
